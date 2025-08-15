@@ -34,4 +34,3 @@ This project is a visually captivating landing page concept for **Grand Theft Au
 ## About
 
 This landing page was developed as a concept to demonstrate web development skills and creativity. It combines modern web technologies with the iconic branding of GTA VI to create an engaging and professional-looking promotional page.
-
