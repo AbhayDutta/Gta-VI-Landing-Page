@@ -31,7 +31,9 @@ Experience the landing page in action here:
 
 ## Screenshot
 
-![GTA VI Landing Page Screenshot](assets/gta%20ss.png)
+
+![GTA VI Landing Page Screenshot](assets/Gta%20VI%20Landing%20page.png)
+
 
 ---
 
