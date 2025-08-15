@@ -5,13 +5,6 @@ This project is a visually captivating landing page concept for **Grand Theft Au
 
 ---
 
-## Live Demo
-
-Experience the landing page in action here:  
-[https://abhaydutta.github.io/Gta-VI-Landing-Page/](https://abhaydutta.github.io/Gta-VI-Landing-Page/)
-
----
-
 ## Features
 
 - **Dynamic Animations** – Smooth transitions and hover effects to engage users.  
@@ -41,4 +34,4 @@ Experience the landing page in action here:
 ## About
 
 This landing page was developed as a concept to demonstrate web development skills and creativity. It combines modern web technologies with the iconic branding of GTA VI to create an engaging and professional-looking promotional page.
->>>>>>> b90670ed999597f9255586e917341880e814bfae
+
